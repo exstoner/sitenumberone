@@ -1,12 +1,5 @@
 /**
-*
-* -----------------------------------------------------------------------------
-*
-* Template : Planteo | Gardening, Landscaping HTML Template
-* Author : rs-theme
-* Author URI : http://www.rstheme.com/
-*
-* -----------------------------------------------------------------------------
+
 *
 **/
 /* Table Of Content
@@ -1340,10 +1333,10 @@ ul.offcanvas-icon:hover li span:nth-child(2) {
   margin: 0 auto;
 }
 .rs-slider.rs-slider2 .single-slide {
-  background: url(/img/header_background.jpeg);
+  background: url(img/header_background.jpeg);
 }
 .rs-slider.rs-slider2 .single-slide.single-slide2 {
-  background: url(/img/header_background2.jpeg);
+  background: url(img/header_background2.jpeg);
 }
 .rs-slider.rs-slider2 .single-slide .content-part {
   padding-bottom: 390px;
