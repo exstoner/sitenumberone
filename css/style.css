@@ -1,7 +1,4 @@
-/**
 
-*
-**/
 /* Table Of Content
 ---------------------------------------------------------
     01. General CSS
@@ -295,7 +292,7 @@ iframe {
   background-position: top center;
 }
 .bg6 {
-  background-image: url(/img/counter-bg.png);
+  background-image: url(../img/counter-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top center;
@@ -1333,10 +1330,10 @@ ul.offcanvas-icon:hover li span:nth-child(2) {
   margin: 0 auto;
 }
 .rs-slider.rs-slider2 .single-slide {
-  background: url(img/header_background.jpeg);
+  background: url(../img/header_background.jpeg);
 }
 .rs-slider.rs-slider2 .single-slide.single-slide2 {
-  background: url(img/header_background2.jpeg);
+  background: url(../img/header_background2.jpeg);
 }
 .rs-slider.rs-slider2 .single-slide .content-part {
   padding-bottom: 390px;
@@ -2224,7 +2221,7 @@ ul.offcanvas-icon:hover li span:nth-child(2) {
   padding-left: 0;
 }
 .rs-services-style3.home-style2 .home2-img {
-  background: url(/img/aboutus_img.jpg);
+  background: url(../img/aboutus_img.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
